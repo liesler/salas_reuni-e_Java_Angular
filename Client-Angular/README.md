@@ -41,6 +41,8 @@ ng --version
 ### criar projeto 
 ng new client-room
 
+contruido junto com a digitalinnovation no Santander Bootcamp | Fullstack Developer
+
 
 
 
